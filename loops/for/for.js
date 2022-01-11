@@ -10,4 +10,4 @@ for (let item of listaDeCompras){
 }
 
 
-
+//lengt se refere ao tamanho da string
