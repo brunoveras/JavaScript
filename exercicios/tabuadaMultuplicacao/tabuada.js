@@ -3,4 +3,4 @@ function solucao(n){
         console.log(n * i);
     }
 }
-solucao(2);
+solucao(1);
